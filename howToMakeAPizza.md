@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pasos para hacer una Pizza 🍕
 
 ## Ingredientes:
